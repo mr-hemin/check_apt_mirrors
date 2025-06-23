@@ -1,1 +1,1 @@
-# check_apt_mirrors
+# This bash script checks available mirrors from a given list of apt mirrors.
